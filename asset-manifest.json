@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/pretty-react-app/static/js/main.4659d160.chunk.js",
+    "main.js.map": "/pretty-react-app/static/js/main.4659d160.chunk.js.map",
+    "runtime-main.js": "/pretty-react-app/static/js/runtime-main.cf0db35a.js",
+    "runtime-main.js.map": "/pretty-react-app/static/js/runtime-main.cf0db35a.js.map",
+    "static/js/2.90b155eb.chunk.js": "/pretty-react-app/static/js/2.90b155eb.chunk.js",
+    "static/js/2.90b155eb.chunk.js.map": "/pretty-react-app/static/js/2.90b155eb.chunk.js.map",
+    "index.html": "/pretty-react-app/index.html",
+    "static/js/2.90b155eb.chunk.js.LICENSE.txt": "/pretty-react-app/static/js/2.90b155eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf0db35a.js",
+    "static/js/2.90b155eb.chunk.js",
+    "static/js/main.4659d160.chunk.js"
+  ]
+}
